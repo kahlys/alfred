@@ -1,4 +1,4 @@
-package godatable
+package alfred
 
 import (
 	"testing"
